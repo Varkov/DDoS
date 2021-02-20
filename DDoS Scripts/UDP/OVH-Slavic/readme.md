@@ -1,9 +1,13 @@
-Name: OVH-SLAVIC.C 
+## General Information
+**Name**: OVH-SLAVIC.C
+**Targets**: OVH Servers
+**Protocol**: UDP
+	**Type**: Raw
+	**Payload (hex)**: 081e77da + random
 
-Small Description: This method was used on several stressers sold by a guy who claimed to have written the code but in reality was just reselling a script.
+## Description
+This method was used on several stressers under different names.
+It was sold by someone called '_Slavicd_' who claims to have written the code but in reality was just reselling a script.
 
-Purpose: Method is designed to target OVH Servers with a set payload generator, that starts from \x08\x1e\x77\xda. 
-
-Protocol: UDP
-
-Only use the method for education purpose only.
+### Disclaimer
+_Only use the method for education purpose only._
