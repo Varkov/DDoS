@@ -1,7 +1,3 @@
-/*
-        ***Reminder*** recode this shit in cpp
-*/
-
 #include <pthread.h>
 #include <unistd.h>
 #include <stdio.h>
